@@ -17,4 +17,4 @@ This project aims to accurately forecast electricity demand using environmental 
 
 ## Data Preprocessing
 
-- Converted Timestamp to datetime and set it as the index.
+- Converted `Timestamp` to `datetime` and set it as the index.
